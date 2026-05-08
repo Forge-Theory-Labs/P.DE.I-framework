@@ -63,3 +63,9 @@ Customize your AI's behavior by editing files in `personalities/`. You can defin
 ## 🤝 Contributing
 
 Contributions are welcome. Please ensure any new modules adhere to the `pdei_core/template.json` structure.
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
